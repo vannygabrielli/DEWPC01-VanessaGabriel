@@ -1,0 +1,2 @@
+class PeopleProductsController < ApplicationController
+end
